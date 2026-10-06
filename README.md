@@ -4,7 +4,7 @@
 
 PHP and WordPress developer focused on **PHP Core, Zend Engine, extensions, performance, and WordPress development**.
 
-Contributor to **PHP Core and WordPress Core**.
+Contributor to **[PHP Core](https://github.com/php/php-src/commits?author=arshidkv12) and WordPress Core**.
 
 **Focus:** PHP Internals · C · PHP Extensions · WordPress · WooCommerce · Performance · Open Source
 
