@@ -1,13 +1,13 @@
-## 👋 Hi, I’m Arshid KV.
+# Arshid KV
 
-Freelance developer skilled in **PHP, C Extensions, Zig, Laravel, WordPress, IoT & Embedded Systems**.
+**PHP & WordPress Engineer | Open Source Contributor**
 
-Open to freelance projects — web development, custom plugins, APIs, and embedded systems. 
+PHP and WordPress developer focused on **PHP Core, Zend Engine, extensions, performance, and WordPress development**.
 
-I also take on custom software projects tailored to specific business needs.
+Contributor to **PHP Core and WordPress Core**.
 
-📫 arshidkv12@gmail.com
+**Focus:** PHP Internals · C · PHP Extensions · WordPress · WooCommerce · Performance · Open Source
 
+📩 **Custom projects:** [arshidkv12@gmail.com](mailto:arshidkv12@gmail.com)
 
-
-
+[GitHub](https://github.com/arshidkv12) · [LinkedIn](https://www.linkedin.com/in/arshid-kv-a200aa62/) · [WordPress](https://profiles.wordpress.org/arshidkv12/)
